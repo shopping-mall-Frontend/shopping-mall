@@ -77,6 +77,7 @@ Front-End :👑✨이승윤님(팀장), ✨이은영님,✨곽혜지님 ,✨한�
 
 - Notion : 매일 공부하고 적용하여 PR을 날리고 해결과 오류가 있었던 부분을 기재하고,
   일주일 2번 정도 회의를 하며 원활한 소통을 위해 하루 계획, 현재 진행 상황, 팀원 칭찬 등 여러 부분을 작성했어요!
+  (해당 내용은 [위키 보러가기](https://github.com/shopping-mall-Frontend/shopping-mall/wiki)에서 보실 수 있어요!)
 
 <br/>
 
@@ -290,6 +291,3 @@ Front-End :👑✨이승윤님(팀장), ✨이은영님,✨곽혜지님 ,✨한�
 <details>
 <summary>👤곽혜지</summary>
 </details>
-
-## 🐥 컨벤션 및 회의록
-[위키 보러가기](https://github.com/shopping-mall-Frontend/shopping-mall/wiki)
